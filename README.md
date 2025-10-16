@@ -1,6 +1,6 @@
 # <div align='center'>TanjiroDev Baileys</div>
 
-![TanjiroDev-Baileys](https://tanjirodev.online/auth)
+![TanjiroDev-Baileys](https://tanjirodev.online)
 
 <div align='center'>Enhanced WhatsApp Web Api library by TanjiroDev Team</div>
 
