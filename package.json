@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "tanjirodev/baileys",
   "version": "0.0.8",
   "description": "WhatsApp API",
   "keywords": [
@@ -17,7 +17,7 @@
     "url": "git@github.com:TanjiroDevil/baileys.git"
   },
   "license": "MIT",
-  "author": "TanjiroDevil",
+  "author": "TanjiroDev",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
