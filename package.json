@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/CentreTheEnd/Baileys",
+  "homepage": "https://github.com/TanjiroDevil/baileys",
   "repository": {
-    "url": "git@github.com:CentreTheEnd/Baileys.git"
+    "url": "git@github.com:TanjiroDevil/baileys.git"
   },
   "license": "MIT",
-  "author": "CentreTheEnd",
+  "author": "TanjiroDevil",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
