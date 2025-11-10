@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/TanjiroDevil/baileys",
+  "homepage": "https://github.com/TanjiroDevil/baileys#readme",
   "repository": {
-    "url": "git@github.com:TanjiroDevil/baileys.git"
+    "url": "git+https://github.com/TanjiroDev/baileys.git"
   },
   "license": "MIT",
   "author": "TanjiroDev",
